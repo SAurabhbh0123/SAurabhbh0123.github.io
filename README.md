@@ -6,4 +6,4 @@ Hello! I'm Saurabh kala, a passionate student, currently pursuing my Masters in 
 
 # Projects
 
-[### 1.Tic-Tac-Toe GUI][https://github.com/SAurabhbh0123/tic-tac-toe-GUI]
+### 1.Tic-Tac-Toe GUI [https://github.com/SAurabhbh0123/tic-tac-toe-GUI]
