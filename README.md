@@ -21,3 +21,5 @@ Car price prediction uses machine learning to estimate the price of a vehicle ba
 ### [4. Olympic Analysis](https://github.com/SAurabhbh0123/olympics-analysis)
 
 Olympic analysis examines data from past and current Olympic Games to identify trends, performance metrics, and key insights. It includes studying athletes’ performances, medal tallies, country rankings, and event-specific outcomes. Advanced analytics can predict future results, assess the impact of training techniques, or explore geopolitical influences. Such insights support decision-making for athletes, coaches, and organizations.
+
+### [5.](https://github.com/SAurabhbh0123/B3)
